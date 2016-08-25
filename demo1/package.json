@@ -1,0 +1,14 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "crypto": "~0.0.3",
+    "express": "~4.0.0",
+    "formidable": "^1.0.17",
+    "mysql": "~2.5.0",
+    "qs": "^6.0.0",
+    "sequelize": "~2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
